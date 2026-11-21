@@ -1,0 +1,14 @@
+# PlatformIO 编译产物与缓存
+.pio/
+
+# 本地 Python 虚拟环境与缓存
+.venv/
+__pycache__/
+*.pyc
+
+# 个人密钥配置（切勿提交到 git！）
+include/secrets.h
+
+# 编辑器与系统文件
+.vscode/
+.DS_Store
